@@ -8,7 +8,7 @@ import javax.inject.Inject
 class TasksModel @Inject constructor() : BaseModel {
 
     override fun destroy() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+
     }
 
 }

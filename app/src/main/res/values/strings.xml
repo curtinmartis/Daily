@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Daily</string>
+
+    <!-- Categories -->
+    <string name="category_personal">Personal</string>
+    <string name="category_work">Work</string>
 </resources>
