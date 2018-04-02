@@ -6,8 +6,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import com.appathylabs.daily.R
 import com.appathylabs.daily.dagger.annotations.ActivityScope
-import com.appathylabs.daily.tasks.Category.Personal
-import com.appathylabs.daily.tasks.Category.Work
+import com.appathylabs.daily.room.entities.Category.Personal
+import com.appathylabs.daily.room.entities.Category.Work
+import com.appathylabs.daily.room.entities.Task
 import java.text.DateFormat
 import java.util.*
 import javax.inject.Inject

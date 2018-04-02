@@ -5,6 +5,7 @@ import android.widget.TextView
 import butterknife.BindView
 import com.appathylabs.daily.R
 import com.appathylabs.daily.base.BaseViewHolder
+import com.appathylabs.daily.room.entities.Task
 import java.text.DateFormat
 
 class TaskViewHolder(view: View, private val dateFormat: DateFormat) : BaseViewHolder(view) {
